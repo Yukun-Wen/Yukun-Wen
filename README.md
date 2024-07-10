@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 (｡･∀･)ﾉﾞ Welcome to Yukun Wen's GitHub.
-Click [here](https://firesaku.github.io/) to view my personal page.
+Click [here](https://yukun-wen.github.io/) to view my personal page.
 
 
 - 🌱 I’m currently pursuing my master's degree at the University of Malaya (QS Ranking: 60)
