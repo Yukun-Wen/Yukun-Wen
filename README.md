@@ -1,7 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+
+(｡･∀･)ﾉﾞ Welcome to Yukun Wen's GitHub.
+Click [here](https://firesaku.github.io/) to view my personal page.
+
+
+- 🌱 I’m currently pursuing my master's degree at the University of Malaya (QS Ranking: 60)
+- ✨ My research interests include but not limit to  **Machine Learning**, **Deep Learning**, **Bioinformatics**.
+- 👯  I’m seeking a Master / Ph. D. position for my future studies and research.
+- 💬 Contact me by email: wenyukun.edu@gmail.com
 
 <!--
-**Yukun-Wen/Yukun-Wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**firesaku/firesaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
