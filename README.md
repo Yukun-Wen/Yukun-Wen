@@ -1,13 +1,27 @@
-### Hi there 👋
+# Yukun Wen
 
-(｡･∀･)ﾉﾞ Welcome to Yukun Wen's GitHub.
-Click [here](https://yukun-wen.github.io/) to view my personal page.
+<p align="left">
+  <a href="https://yukun-wen.github.io/"><img src="https://img.shields.io/badge/Website-Personal%20Page-blue?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:wenyukun.edu@gmail.com"><img src="https://img.shields.io/badge/Email-wenyukun.edu@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <!-- 如果有 Google Scholar 或 LinkedIn 可以解开注释 -->
+  <!-- <a href="YOUR_SCHOLAR_URL"><img src="https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Scholar"></a> -->
+</p>
 
+I am a Master's student at the **University of Malaya** (QS World Ranking: 60). 
 
-- 🌱 I’m currently pursuing my master's degree at the University of Malaya (QS Ranking: 60)
-- ✨ My research interests include but not limit to  **Machine Learning**, **Deep Learning**, **Large Language Models**.
-- 👯  I’m seeking a Ph. D. position for my future studies and research.
-- 💬 Contact me by email: wenyukun.edu@gmail.com
+> 🎯 **Note**: I am actively looking for **Ph.D. opportunities** starting in **Fall 2025 / 2026**. Please feel free to reach out if my background aligns with your group's research!
+
+---
+
+### 🔬 Research Interests
+My research interests broadly lie in Artificial Intelligence, including:
+- **Large Language Models (LLMs)** (Reasoning, Alignment, Pre-training / Fine-tuning)
+- **Deep Learning & Representation Learning**
+- **Machine Learning Applications**
+
+### 📬 Contact & Links
+- **Personal Homepage**: [yukun-wen.github.io](https://yukun-wen.github.io/)
+- **Email**: [wenyukun.edu@gmail.com](mailto:wenyukun.edu@gmail.com)
 
 <!--
 **firesaku/firesaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
